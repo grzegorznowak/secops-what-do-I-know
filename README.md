@@ -15,6 +15,10 @@ Not at all definite list of what can be done to poor, little, harmless apps, nor
 
 ## Servers exploitation
 
+### Useful Knowledge Sources:
+
+https://www.youtube.com/watch?v=4t4kBkMsDbQ
+
 ### Tried Tools&Workflows
 
 #### Known Vulnerabilities Workflow
