@@ -30,6 +30,8 @@ https://www.youtube.com/watch?v=4t4kBkMsDbQ
 scan ip for most common ports opened and detect their version. `-Pn` to skip host discovery
 `nmap -F -sV -Pn [IP]`
 
+scan all vuln scripts `nmap --script vuln -Pn [IP]`
+
 #### searchsploit
 
 show me all the known exploits for openSSH (or any other service found via nmap)
