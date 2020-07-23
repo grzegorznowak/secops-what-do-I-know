@@ -1,8 +1,8 @@
 # Secops, What Do I Know 
 Getting my head around SecOps in more systematic way
 
-I felt I need to start writing down what I know, to not get overwhelmed by the amount of the data, and to serve as a recipie for whenever
-I needed to (re)tighten up our apps.
+I felt I needed to start writing down what I know, to not get overwhelmed by the amount of the data, and to serve as a recipie for whenever
+I had to (re)tighten up our apps.
 
 # Primary points of interest
 
