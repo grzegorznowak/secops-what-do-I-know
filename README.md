@@ -17,7 +17,37 @@ Not at all definite list of what can be done to poor, little, harmless apps, nor
 
 ### Tried Tools&Workflows
 
-lorem ipsum
+#### Known Vulnerabilities Workflow
+
+#### nmap
+
+scan ip for most common ports opened and detect their version. `-Pn` to skip host discovery
+`nmap -F -sV -Pn [IP]`
+
+#### searchsploit
+
+show me all the known exploits for openss (or any other service found via nmap)
+`searchsploit openssh`
+
+#### metasploit
+
+`msfconsole`
+
+* show me all the known exploits for openSSH metasploit knows about
+
+`search openSSH`
+
+* use enumusers exploit
+
+`use auxiliary/scanner/ssh/ssh_enumusers`
+
+* point to the server with a known vuln
+
+`set RHOST [IP]`
+
+* show other available parameters
+
+`show options`
 
 ### Promising Tools&Workflows
 
