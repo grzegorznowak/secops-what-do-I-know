@@ -31,27 +31,17 @@ show me all the known exploits for openSSH (or any other service found via nmap)
 
 #### metasploit
 
-`msfconsole`
+boot into with `msfconsole`
 
-* show me all the known exploits for openSSH metasploit knows about
+* show me all the known exploits for openSSH metasploit knows about `search openSSH`
 
-`search openSSH`
+* use enumusers exploit `use auxiliary/scanner/ssh/ssh_enumusers`
 
-* use enumusers exploit
+* point to the server with a known vuln `set RHOST [IP]`
 
-`use auxiliary/scanner/ssh/ssh_enumusers`
+* show other available parameters `show options`
 
-* point to the server with a known vuln
-
-`set RHOST [IP]`
-
-* show other available parameters
-
-`show options`
-
-* try exploting
-
-`exploit`
+* try exploting `exploit`
 
 ### Promising Tools&Workflows
 
