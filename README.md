@@ -26,7 +26,7 @@ scan ip for most common ports opened and detect their version. `-Pn` to skip hos
 
 #### searchsploit
 
-show me all the known exploits for openss (or any other service found via nmap)
+show me all the known exploits for openSSH (or any other service found via nmap)
 `searchsploit openssh`
 
 #### metasploit
@@ -48,6 +48,10 @@ show me all the known exploits for openss (or any other service found via nmap)
 * show other available parameters
 
 `show options`
+
+* try exploting
+
+`exploit`
 
 ### Promising Tools&Workflows
 
