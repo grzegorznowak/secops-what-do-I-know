@@ -1,6 +1,8 @@
 # Secops, What Do I Know 
 Getting my head around SecOps in more systematic way
 
+I felt I need to start writing down what I know, to not get overwhelmed by the amount of the data, and to serve as a recipie for whenever
+I needed to (re)tighten up our apps.
 
 # Primary points of interest
 
@@ -9,9 +11,6 @@ Aka main taxonomies.
 Genres of security breaches I'm most interested in currently, from the SecOps standpoint.
 
 Not at all definite list of what can be done to poor, little, harmless apps, nor might it be even accurate in it's description.
-
-I felt I need to start writing down what I know, to not get overwhelmed by the amount of the data, and to serve as a recipie for whenever
-I needed to (re)tighten up our apps.
 
 
 ## Servers exploitation
