@@ -12,7 +12,12 @@ Genres of security breaches I'm most interested in currently, from the SecOps st
 
 Not at all definite list of what can be done to poor, little, harmless apps, nor might it be even accurate in it's description.
 
+## Data gathering
 
+### Tech Stack detection
+  whatweb -v example.com
+  
+  
 ## Servers exploitation
 
 ### Useful Knowledge Sources:
