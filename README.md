@@ -23,6 +23,10 @@ Not at all definite list of what can be done to poor, little, harmless apps, nor
   whatweb -v example.com
   
   
+### recon-ng
+
+TBD. sample uses and such
+
 ## Servers exploitation
 
 ### Useful Knowledge Sources:
