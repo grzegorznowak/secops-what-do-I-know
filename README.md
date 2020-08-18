@@ -33,7 +33,7 @@ TBD. sample uses and such
 
 not very reliable, but sometimes works
 
-`lbd kwiziq.com 443 https`
+`lbd example.com 443 https`
 
 ## Servers exploitation
 
