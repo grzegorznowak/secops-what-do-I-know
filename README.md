@@ -16,7 +16,7 @@ Not at all definite list of what can be done to poor, little, harmless apps, nor
 
 ### OSINT Roadmap
 
-![alt text](https://github.com/grzegorznowak/secops-what-do-I-know/raw/master/src/assets/osint.png "OSINT Overview")
+![osing overview](https://github.com/grzegorznowak/secops-what-do-I-know/blob/master/assets/osint.png "OSINT Overview")
 
 
 ### Tech Stack detection
