@@ -25,6 +25,8 @@ Not at all definite list of what can be done to poor, little, harmless apps, nor
   
 ### recon-ng
 
+https://www.blackhillsinfosec.com/whats-changed-in-recon-ng-5x/
+
 TBD. sample uses and such
 
 ## Servers exploitation
