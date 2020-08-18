@@ -29,6 +29,12 @@ https://www.blackhillsinfosec.com/whats-changed-in-recon-ng-5x/
 
 TBD. sample uses and such
 
+### Load balancing detection
+
+not very reliable, but sometimes works
+
+`lbd kwiziq.com 443 https`
+
 ## Servers exploitation
 
 ### Useful Knowledge Sources:
