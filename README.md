@@ -65,6 +65,8 @@ show me all the known exploits for openSSH (or any other service found via nmap)
 
 #### metasploit
 
+![metasploit diagram](https://github.com/grzegorznowak/secops-what-do-I-know/blob/master/assets/metasploit.png "metasploit diagram")
+
 boot into with `msfconsole`
 
 * show me all the known exploits for openSSH metasploit knows about `search openSSH`
