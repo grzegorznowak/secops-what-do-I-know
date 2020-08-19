@@ -65,28 +65,32 @@ boot into with `msfconsole`
 
 lorem ipsum
 
+## Webapps exploitation
 
-## DB explotation
+![exploitation diagram](https://github.com/grzegorznowak/secops-what-do-I-know/blob/master/assets/webapp.png "Webapp diagram")
+
+
+### DB exploitation
 
 aka webapps' backend hacking
 
-### Tried Tools&Workflows
+#### Tried Tools&Workflows
 
 lorem ipsum
 
-### Promising Tools&Workflows
+#### Promising Tools&Workflows
 
 lorem ipsum
 
 
-## Stored JS exploitation
+### Stored JS exploitation
 
 aka making sure html is being sanitized properly
 
-### Tried Tools&Workflows
+#### Tried Tools&Workflows
 
 lorem ipsum
 
-### Promising Tools&Workflows
+#### Promising Tools&Workflows
 
 lorem ipsum
