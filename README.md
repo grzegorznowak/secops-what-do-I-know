@@ -19,6 +19,10 @@ Not at all definite list of what can be done to poor, little, harmless apps, nor
 ![osing overview](https://github.com/grzegorznowak/secops-what-do-I-know/blob/master/assets/osint.png "OSINT Overview")
 
 
+### Finding out related and active subdomains
+
+`python sublist3r.py -v -b -d [domain]`
+
 ### Tech Stack detection
   whatweb -v example.com
   
@@ -31,10 +35,12 @@ TBD. sample uses and such
 
 ### MSF baseline reckon with Nmap
 
-`sudo msfdb init`
-`msfconsole`
-`workspace -a [domain/ip we plan scanning]`
-`db_nmap -sV -A -T4 -Pn -p1- [domain/ip]`
+```
+sudo msfdb init
+msfconsole
+workspace -a [domain/ip we plan scanning]
+db_nmap -sV -A -T4 -Pn -p1- [domain/ip]
+```
 
 then show us what you found 
 
