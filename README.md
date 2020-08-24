@@ -36,6 +36,10 @@ TBD. sample uses and such
 `workspace -a [domain/ip we plan scanning]`
 `db_nmap -sV -A -T4 -Pn -p1- [domain/ip]`
 
+then show us what you found 
+
+`services`
+
 ### Load balancing detection
 
 not very reliable, but sometimes works
