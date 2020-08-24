@@ -29,6 +29,13 @@ https://www.blackhillsinfosec.com/whats-changed-in-recon-ng-5x/
 
 TBD. sample uses and such
 
+### MSF baseline reckon with Nmap
+
+`sudo msfdb init`
+`msfconsole`
+`workspace -a [domain/ip we plan scanning]`
+`db_nmap -sV -A -T4 -Pn -p1- [domain/ip]`
+
 ### Load balancing detection
 
 not very reliable, but sometimes works
