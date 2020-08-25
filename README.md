@@ -46,6 +46,21 @@ then show us what you found
 
 `services`
 
+then search for usable module related to found services and their versions
+
+`search openSSH X.Y.Z`
+
+finaly lock and load usable exploit via
+
+```
+use [module]
+info
+set [PARAM] [VALUE]
+exploit
+```
+
+
+
 ### Load balancing detection
 
 not very reliable, but sometimes works
